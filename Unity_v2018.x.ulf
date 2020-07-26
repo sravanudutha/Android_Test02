@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+    <License id="Terms">
+        <MachineBindings>
+            <Binding Key="1" Value="52af069edf1340399e965ba988676852"/>
+            <Binding Key="2" Value="52af069edf1340399e965ba988676852"/>
+        </MachineBindings>
+        <MachineID Value="1CfCrcJiJxkgvcC3W38JPuUpIro="/>
+        <SerialHash Value="c6163367ac444ec1ad812af62f5bb428e722e83c"/>
+        <Features>
+            <Feature Value="33"/>
+            <Feature Value="1"/>
+            <Feature Value="12"/>
+            <Feature Value="2"/>
+            <Feature Value="24"/>
+            <Feature Value="3"/>
+            <Feature Value="36"/>
+            <Feature Value="17"/>
+            <Feature Value="19"/>
+            <Feature Value="62"/>
+        </Features>
+        <DeveloperData Value="AQAAAEY0LUM1UUstODJXOC0zTldVLUFGUFctV1JZTg=="/>
+        <SerialMasked Value="F4-C5QK-82W8-3NWU-AFPW-XXXX"/>
+        <StartDate Value="2020-02-03T00:00:00"/>
+        <UpdateDate Value="2020-07-27T08:16:51"/>
+        <InitialActivationDate Value="2020-02-03T06:14:51"/>
+        <LicenseVersion Value="6.x"/>
+        <ClientProvidedVersion Value="2018.2.21f1"/>
+        <AlwaysOnline Value="false"/>
+        <Entitlements>
+            <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
+        </Entitlements>
+    </License>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>KvPNcR3whWk3P/YIfVaQpQ8mGNU=</DigestValue></Reference></SignedInfo><SignatureValue>cWrqKN9nesGxz2DqqBFeT1Fj49yUwiVCCnI0lRicxc6w6P0JzZ1MFAhX+6mhGLY6KBF2FcjHiF+e
+SbrKQxJzlJuAUunQHQm51ZQJsRlf+zMDpI9eBcqbNbDFa46TttzacNLm6ONhsK0D5viQ3QMyzbp3
+xgqS57rjuIWDd5a32A0xldqnctHOtUWFuKMmPmWbq291cOaG+vNmY9Gix41IjHJbEDgD87BAYNp/
+zJ3Jk9hKq8gmwBwHIY+gAzluIBGYDTzowtPRs8ZWOu/RFWBH/+K8BCCSPYSVwAk2gmUrCv8h2gR3
+L3ph6uRbFHHWT3e3hu8olX4jxOYxf90hlskgrg==</SignatureValue></Signature></root>
